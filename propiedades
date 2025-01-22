@@ -1,0 +1,18 @@
+                                           PROPIEDADES POO
+
+Abstracción :Se ignora como se hace un afunción . Solo se utiliza
+
+Encapsulamiento : En una misma estructura están los datos y sus operaciones
+
+Ocultación:Establece control de acceso
+
+Polimorfismo: Se puede definir un metodo de varias maneras 
+
+Herencia: Una clase puede heredar de otras para ampliarlas o especificarlas
+
+
+CONCEPTOS
+CLASE : TIENE--> PROPIEDADES METODOS Y SU VISIBILIDAD
+
+
+
